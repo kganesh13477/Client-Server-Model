@@ -1,2 +1,3 @@
 # Client-Server-Model
-Socket Programming
+## Socket Programming  
+Communication between client and server for differnt file accessing operations.
